@@ -6,9 +6,11 @@ Prerequisite
 1. pip install -r requirement.txt
   * Some of package might be upgrade.
 2. Enforce **FLASKEIKON** absolute path on window( w/ advanced setting )
+  * System - Advanced setting - Environment variables - 'New' for User variables
 ```
 FLASKEIKON = /path/of/FLASK-EIKON
 ```
+  * Reboot ( To set new environment variables )
 
 Configuration
 -------------
